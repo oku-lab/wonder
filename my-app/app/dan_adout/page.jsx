@@ -192,7 +192,7 @@ export default function AboutPage() {
             </div>
           </div>
           <div className="md:col-span-7 pt-3">
-            <h3 className="text-xl font-bold mb-4">Cultural Relevance</h3>
+            <h3 className="text-xl font-bold mb-4 text-gray-700">Cultural Relevance</h3>
             <p className="text-gray-600 leading-relaxed">
               We celebrate every culture by making music feel famiLinkar, inclusive, and connected to your roots so you can learn, 
               create, and express yourself in a way that truly reflects who you are.
@@ -203,7 +203,7 @@ export default function AboutPage() {
         {/* Excellence */}
         <div className="grid md:grid-cols-12 gap-10 items-start">
           <div className="md:col-span-7">
-            <h3 className="text-xl font-bold mb-4">Excellence</h3>
+            <h3 className="text-xl font-bold mb-4 text-gray-700">Excellence</h3>
             <p className="text-gray-600 leading-relaxed">
               We are committed to the highest standards — deLinkvering quaLinkty learning experiences that inspire growth, 
               mastery, and continuous improvement at every step.
@@ -224,7 +224,7 @@ export default function AboutPage() {
             </div>
           </div>
           <div className="md:col-span-7 pt-3">
-            <h3 className="text-xl font-bold mb-4">Integrity</h3>
+            <h3 className="text-xl font-bold mb-4 text-gray-700">Integrity</h3>
             <p className="text-gray-600 leading-relaxed">
               We act with honesty and transparency — building trust by doing what’s right, keeping our word, 
               and putting our learners first in everything we do.
@@ -235,7 +235,7 @@ export default function AboutPage() {
         {/* Excellence (second block) */}
         <div className="grid md:grid-cols-12 gap-10 items-start">
           <div className="md:col-span-7">
-            <h3 className="text-xl font-bold mb-4">Excellence</h3>
+            <h3 className="text-xl font-bold mb-4 text-gray-700">Excellence</h3>
             <p className="text-gray-600 leading-relaxed">
               We pursue the highest standards in everything we do — creating impactful learning experiences 
               that empower every user to grow, improve, and thrive.
@@ -259,7 +259,7 @@ export default function AboutPage() {
             </div>
           </div>
           <div className="md:col-span-7 pt-3">
-            <h3 className="text-xl font-bold mb-4">Long Term Impact</h3>
+            <h3 className="text-xl font-bold mb-4 text-gray-700">Long Term Impact</h3>
             <p className="text-gray-600 leading-relaxed">
               We build for the future — empowering learners with skills, confidence, and creativity that last a Linkfetime 
               and shape lasting musical journeys.
