@@ -64,7 +64,7 @@ export default function HomePage() {
               HOME
             </Link>
             <Link 
-              href="/dan_adout" 
+              href="/dan_adout"   
               className="hover:text-gray-300 transition py-2"
               onClick={() => setIsOpen(false)}
             >
