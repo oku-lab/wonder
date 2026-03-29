@@ -66,7 +66,7 @@ export default function MusicPage() {
         {isOpen && (
           <div className="md:hidden mt-4 py-4 border-t border-gray-700">
             <ul className="flex flex-col gap-4 sm:gap-6 text-center text-base sm:text-lg font-medium">
-              <Link href="/daniel" className="hover:text-gray-300 transition py-2" onClick={() => setIsOpen(false)}>HOME</Link>
+              <Link href="/dan_home" className="hover:text-gray-300 transition py-2" onClick={() => setIsOpen(false)}>HOME</Link>
               <Link href="/dan_adout" className="hover:text-gray-300 transition py-2" onClick={() => setIsOpen(false)}>ABOUT</Link>
               <Link href="/dan_contact" className="hover:text-gray-300 transition py-2" onClick={() => setIsOpen(false)}>SOLUTION</Link>
               <Link href="/dan_solution" className="hover:text-gray-300 transition py-2" onClick={() => setIsOpen(false)}>CONTACT</Link>
@@ -80,7 +80,7 @@ export default function MusicPage() {
         <img
             src="/treble clef.jpg"
             alt="Music wave"
-            className="absolute top-[-40px] right-[-40px] w-[300px] md:w-[450px] lg:w-[550px] opacity-70 pointer-events-none music-wave rounded-full"
+            className="absolute top-[-40px] right-[-40px] w-[280px] md:w-[380px] lg:w-[490px] opacity-70 pointer-events-none music-wave rounded-full"
           />
         <p className="text-lg sm:text-xl font-semibold tracking-[3px] uppercase text-gray-500 mb-5">MUSIC</p>
 

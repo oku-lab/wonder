@@ -25,7 +25,7 @@ export default function AboutPage() {
       
               {/* Desktop Menu */}
               <ul className="hidden md:flex gap-8 text-sm font-medium tracking-widest">
-                <Link href="/" className="hover:text-gray-300 transition">HOME</Link>
+                <Link href="/dan_home" className="hover:text-gray-300 transition">HOME</Link>
                 <Link href="/dan_adout" className="hover:text-gray-300 transition">ABOUT</Link>
                 <Link href="/dan_solution" className="hover:text-gray-300 transition">SOLUTION</Link>
                 <Link href="/dan_contact" className="hover:text-gray-300 transition">CONTACT</Link>

@@ -27,7 +27,7 @@ export default function BookingsPage() {
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex gap-8 text-sm font-medium tracking-widest">
-          <Link href="/" className="hover:text-gray-300 transition">HOME</Link>
+          <Link href="/dan_home" className="hover:text-gray-300 transition">HOME</Link>
           <Link href="/dan_adout" className="hover:text-gray-300 transition">ABOUT</Link>
           <Link href="/dan_solution" className="hover:text-gray-300 transition">SOLUTION</Link>
           <Link href="/dan_contact" className="hover:text-gray-300 transition">CONTACT</Link>
@@ -96,7 +96,7 @@ export default function BookingsPage() {
        <img
             src="/treble clef.jpg"
             alt="Music wave"
-            className="absolute top-[-40px] right-[-40px] w-[200px] md:w-[350px] lg:w-[4x50px] opacity-70 pointer-events-none music-wave rounded-full"
+            className="absolute top-[-40px] right-[-40px] w-[280px] md:w-[380px] lg:w-[490px] opacity-70 pointer-events-none music-wave rounded-full"
           />
         <p className="text-xs font-semibold tracking-[2px] uppercase text-gray-500 mb-10">BOOKINGS</p>
 
